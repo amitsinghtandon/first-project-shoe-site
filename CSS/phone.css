@@ -1,0 +1,46 @@
+#navbar {
+  flex-direction: column;
+  bottom: 20px;
+}
+#navbar ul {
+  position: relative;
+  bottom: 20px;
+}
+
+.h-primary {
+  font-size: 1.5rem;
+}
+.heading2 {
+  font-size: 1.5rem;
+}
+.headingc {
+  font-size: 1.5rem;
+}
+#home p {
+  font-size: 1rem;
+}
+
+#homes2 {
+  flex-direction: column;
+}
+
+.clients2 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.form-group input {
+  width: 300px;
+}
+
+.form-group textarea {
+  width: 300px;
+}
+#navbar ul li a {
+  padding: 3px;
+  margin: 0px;
+}
+.container2 img {
+  height: 30px;
+  padding: 05px 20px;
+}
